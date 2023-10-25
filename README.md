@@ -21,9 +21,11 @@
 8- Now you can be able to access the system.
 
 Admin account information
-	- email: star.x1998@gmail.com
-	- password: 123123123
-	
+
+	email: ammar@gmail.com
+	password: 123123123
+ 
 Parent account information
-	- email: Ali@gmail.com
-	- password: 123
+
+	email: Ali@gmail.com
+	password: 123
