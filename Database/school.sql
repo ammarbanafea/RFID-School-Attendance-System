@@ -41,7 +41,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `admin_name`, `admin_email`, `admin_pwd`, `type`, `student_id`) VALUES
-(1, 'Ammar', 'star.x1998@gmail.com', '$2y$10$2ZdlcAcGvQ.o/udtulP9j.rUgj87munkDv5.XCFCZ2BpgNo.E52zy', 1, NULL),
+(1, 'Ammar', 'ammar@gmail.com', '$2y$10$2ZdlcAcGvQ.o/udtulP9j.rUgj87munkDv5.XCFCZ2BpgNo.E52zy', 1, NULL),
 (9, 'Ali Ba Nafea', 'Ali@gmail.com', '$2y$10$2sHofEaPnDppTTbPAaZ8vuxL769IFz621.FDN1OkI49NBU1esC0ju', 0, 1),
 (10, 'Mohammad Rajih', 'Mohammad@hotmail.com', '$2y$10$pkS3DGUQc9YU4ATGT103Ze7H.jaFRgJsGhNv6zfev9kBm9BTUTHMO', 0, 2),
 (11, 'Abdulrahman Abdullah', 'Abdulrahman@outlook.com', '$2y$10$fxy3730xAU/y8Dd0xsfObe29NycW743rYrZQNAvAOvl4el/KBdo1K', 0, 3),
